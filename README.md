@@ -1,0 +1,2 @@
+Fue un proyecto hecho en Java, realizado en el primer semestre de la carrera, se usa mediante la terminal y solo es capaz de realizar unas cuantas de operaciones y secuencias matemáticas, esto validado completamente por try catch con el objetivo de no poder romper el programa.
+<img width="513" height="282" alt="image" src="https://github.com/user-attachments/assets/d40cafb3-88a2-46c1-977e-83baae097309" />
